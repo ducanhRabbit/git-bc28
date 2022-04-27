@@ -30,3 +30,7 @@
 
 10/ Chuyển nhánh:
     lệnh: git checkout {branch_name}
+
+11/ Kết hợp code của 2 nhánh:
+    Warning: Phải đứng ở nhánh master
+    lệnh: git merge {branch_name}
