@@ -1,0 +1,13 @@
+1/ Khởi tạo git
+    ~ lệnh: git init
+
+2/ Kiểm tra git version
+    ~ lệnh: git --version
+
+3/ Nạp code lên server github/ gitlab
+    lệnh: -) git add .
+          -) git commit -m "your comment"
+          -) git push
+
+4/ Kiểm tra trạng thái của git
+    lệnh: git status
