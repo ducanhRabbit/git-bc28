@@ -1,0 +1,32 @@
+1/ Khởi tạo git
+    ~ lệnh: git init
+
+2/ Kiểm tra git version
+    ~ lệnh: git --version
+
+3/ Nạp code lên server github/ gitlab
+    lệnh: -) git add .
+          -) git commit -m "your comment"
+          -) git push --set-upstream {name} master/ 
+
+4/ Kiểm tra trạng thái của git
+    lệnh: git status
+
+5/ lệnh giúp git biết được sẽ đưa code đi đâu
+    lệnh: git remote add {name} {url_github}
+    VD: git remote add origin https://github.com/ducanhRabbit/git-bc28.git
+
+6/ Kiểm tra add remote đã thành công?
+    lệnh: git remote
+
+7/ Cách lấy clone
+    lệnh: git clone {url_github}
+
+8/ Kiểm tra có bao nhiêu nhánh trong source code
+    lệnh: git branch
+
+9/ Tạo nhánh mới:
+    lệnh: git branch {new_name}
+
+10/ Chuyển nhánh:
+    lệnh: git checkout {branch_name}
