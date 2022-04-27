@@ -11,3 +11,7 @@
 
 4/ Kiểm tra trạng thái của git
     lệnh: git status
+
+5/ lệnh giúp git biết được sẽ đưa code đi đâu
+    lệnh: git remote add {name} {url_github}
+    VD: git remote add origin https://github.com/ducanhRabbit/git-bc28.git
